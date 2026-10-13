@@ -28,7 +28,7 @@
 
 ![LangChain](https://img.shields.io/badge/LangChain-v1-1C3C3C?logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1.x-FF6F61)
-![DeepAgents](https://img.shields.io/badge/DeepAgents-0.6-6E56CF)
+![DeepAgents](https://img.shields.io/badge/DeepAgents-0.7-6E56CF)
 ![LangSmith](https://img.shields.io/badge/Observability-LangSmith-FF6F61)
 ![Exposes MCP + A2A](https://img.shields.io/badge/exposes-MCP%20%2B%20A2A-0A7EA4)
 
