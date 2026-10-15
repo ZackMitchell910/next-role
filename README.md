@@ -36,6 +36,8 @@
 
 <img alt="NextRole start page — chat-driven prep on the left, a live artifact workspace on the right" src="docs/images/next-role-hero-image.png" width="100%">
 
+▶️ **[Meet the agents — NextRole in 72 seconds](#meet-the-agents--nextrole-in-72-seconds)**
+
 </div>
 
 ---
@@ -55,6 +57,14 @@ Preparing for an interview takes hours of tedious resume tailoring and company r
 
 ## Demo
 
+### Meet the agents — NextRole in 72 seconds
+
+<video src="https://github.com/user-attachments/assets/849052dd-430d-4af6-af21-f79309113599" width="100%" controls>
+  Your browser does not support the video tag.
+</video>
+
+▶️ **[Watch it on YouTube »](https://youtu.be/EC4Q8WSXVII)**
+
 ### Career agent — from CV and JD to interview-ready
 
 <video src="https://github.com/user-attachments/assets/103b13fb-931f-4258-a131-4f6329b14f8d" width="100%" controls>
@@ -65,7 +75,7 @@ Preparing for an interview takes hours of tedious resume tailoring and company r
 
 ### Analytics agent — ask the product questions, get charts
 
-<video src="https://github.com/user-attachments/assets/988146dc-8c07-46c2-b9d0-4aea98b1be83" width="100%" controls>
+<video src="https://github.com/user-attachments/assets/c0f4cbb3-3cd2-440a-8341-2ae2f7460fce" width="100%" controls>
   Your browser does not support the video tag.
 </video>
 
